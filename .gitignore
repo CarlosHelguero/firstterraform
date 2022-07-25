@@ -1,2 +1,6 @@
 demo-key-pair.pub
 demo-key-pair
+.terraform/providers/registry.terraform.io/hashicorp/aws/4.23.0/darwin_amd64/terraform-provider-aws_v4.23.0_x5
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
